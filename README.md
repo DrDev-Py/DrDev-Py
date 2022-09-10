@@ -1,3 +1,5 @@
+<div align="center">
+<div align="left">
 # Hi there 👋
 
 I'm Chukwunonso. 
@@ -28,6 +30,7 @@ REMEMBER TO ADD KAGGLE BADGE
 [![Medium Badge](https://img.shields.io/badge/-@KunalRaghav-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@KunalRaghav/)](https://medium.com/@KunalRaghav/) 
 
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=https://www.facebook.com/weltonpfelix/)](https://www.facebook.com/weltonpfelix -->
+</div>
 
 ## Github Stats
 [![Chukwunonso's GitHub stats](https://github-readme-stats.vercel.app/api?username=DrDev-Py&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
@@ -42,4 +45,5 @@ PROFILE COUNTER :
 <img src="https://komarev.com/ghpvc/?username=DrDev-Py&&style=flat-square" align="center" />
 </div>
 
+</div>
 
