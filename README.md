@@ -36,7 +36,7 @@ REMEMBER TO ADD KAGGLE BADGE
 ## Github Stats
 [![Chukwunonso's GitHub stats](https://github-readme-stats.vercel.app/api?username=DrDev-Py&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-## Languate Stats
+## Language Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DrDev-Py&layout=compact&hide=html&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 PROFILE COUNTER : 
