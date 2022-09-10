@@ -1,16 +1,45 @@
-### Hi there 👋
+# Hi there 👋
+
+I'm Chukwunonso. 
+
+* A Medical Student, Data Analyst
+  > Data Science Enthusiast
+* Proficient in Excel, Python:
+  > Numpy, Pandas, Matplotlib, Seaborn.
+  
+  > Django, Django Rest Framework
+* Currently learning Data Science, SQL, Tableau.
+  
+* Open to contribute to Data Science and Medical Research Projects.
+
+
+
+## Connect with me:
+<!-- SOCIAL MEDIA BADGES-->
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Chukwumaeze_E)](https://twitter.com/Chukwumaeze_E) 
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:contato.echukwumaeze@gmail.com)](mailto:contato.echukwumaeze@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/chukwunonsochukwumaeze/)](https://www.linkedin.com/in/chukwunonsochukwumaeze/)
+
+
+<!-- NO PROFILES YET
+
+REMEMBER TO ADD KAGGLE BADGE
+
+[![Medium Badge](https://img.shields.io/badge/-@KunalRaghav-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@KunalRaghav/)](https://medium.com/@KunalRaghav/) 
+
+[![Facebook Badge](https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=https://www.facebook.com/weltonpfelix/)](https://www.facebook.com/weltonpfelix -->
+
+## Github Stats
+[![Chukwunonso's GitHub stats](https://github-readme-stats.vercel.app/api?username=DrDev-Py&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
-**DrDev-Py/DrDev-Py** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+PROFILE COUNTER : 
+  ![](https://komarev.com/ghpvc/?username=DrDev-Py)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DrDev-Py&layout=compact&hide=html&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 -->
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=DrDev-Py&&style=flat-square" align="center" />
+</div>
+
+
