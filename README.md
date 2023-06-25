@@ -7,11 +7,11 @@ I'm Chukwunonso.
 
 * A Medical Student, Data Analyst
   > Data Science Enthusiast
-* Proficient in Excel, Python:
+* Proficient in Excel, SQL, Python:
   > Numpy, Pandas, Matplotlib, Seaborn.
   
   > Django, Django Rest Framework
-* Currently learning Data Science, SQL, Tableau.
+* Currently learning Statistics, Power BI/Tableau.
   
 * Open to contribute to Data Science and Medical Research Projects.
 
